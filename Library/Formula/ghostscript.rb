@@ -1,4 +1,3 @@
-# Hello, Git.
 require 'formula'
 
 class GhostscriptFonts < Formula
